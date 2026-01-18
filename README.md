@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=25&height=280&section=header&text=Ussagi's%20Github&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Sharing%20my%20learning%20journey&descSize=22&fontAlignY=38&descAlignY=60) <br/> 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=Ussagi's%20Github&fontSize=70&fontColor=703ee5&desc=Building%20things%20with%20code.&descSize=25&descColor=9b72f2&fontAlignY=35&descAlignY=65) <br/> 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%F0%9F%8E%83)](https://git.io/typing-svg)
 
 
