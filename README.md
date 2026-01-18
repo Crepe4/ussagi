@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=안녕하세요!%20🎃&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Ussagi's%20Github&fontSize=70) <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%F0%9F%8E%83)](https://git.io/typing-svg)
+
 
 ## 💁‍♂️ About Me
 
