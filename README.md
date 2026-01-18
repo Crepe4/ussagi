@@ -30,8 +30,6 @@
 ### Utility
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br/>
@@ -39,11 +37,15 @@
 
 ---
 
-![ussagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussagi&show_icons=true)
+![Ussagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussagi&show_icons=true)
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussagi)](https://github.com/anuraghazra/github-readme-stats)
+[![Ussagi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Ussagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussagi)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
